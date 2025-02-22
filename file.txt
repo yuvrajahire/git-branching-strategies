@@ -1,2 +1,6 @@
 file created
+<<<<<<< HEAD
 1111111
+=======
+123
+>>>>>>> feature
